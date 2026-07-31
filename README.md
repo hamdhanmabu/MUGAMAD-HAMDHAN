@@ -31,7 +31,7 @@ By combining my clinical background with analytics and enterprise systems, I asp
 
 # 🗺️ Learning & Project Roadmap
 
-## 📌 Phase 1 — Building the Foundation
+##  Phase 1 — Building the Foundation
 
 ### Focus
 
@@ -50,7 +50,7 @@ By combining my clinical background with analytics and enterprise systems, I asp
 
 ---
 
-## 📌 Phase 2 — Business Intelligence & Dashboards
+##  Phase 2 — Business Intelligence & Dashboards
 
 ### Focus
 
@@ -69,7 +69,7 @@ By combining my clinical background with analytics and enterprise systems, I asp
 
 ---
 
-## 📌 Phase 3 — Python for Data Analytics
+##  Phase 3 — Python for Data Analytics
 
 ### Focus
 
@@ -88,7 +88,7 @@ By combining my clinical background with analytics and enterprise systems, I asp
 
 ---
 
-## 📌 Phase 4 — MIS & Enterprise Systems
+##  Phase 4 — MIS & Enterprise Systems
 
 ### Focus
 
@@ -117,7 +117,7 @@ By combining my clinical background with analytics and enterprise systems, I asp
 
 ---
 
-## 📌 Phase 5 — Healthcare Analytics
+##  Phase 5 — Healthcare Analytics
 
 ### Focus
 
@@ -133,7 +133,7 @@ Combining my clinical experience with analytics to solve healthcare operational 
 
 ---
 
-## 📌 Phase 6 — Portfolio Showcase
+##  Phase 6 — Portfolio Showcase
 
 ### Focus
 
@@ -151,7 +151,7 @@ Building end-to-end analytics projects that demonstrate practical business probl
 
 ---
 
-## 📌 Phase 7 — Continuous Learning Journal
+##  Phase 7 — Continuous Learning Journal
 
 ### Focus
 
