@@ -1,62 +1,228 @@
-🚀 Welcome to My Tech & Analytics Hub
-Hey there! 👋 I'm Mugamad Hamdhan.
-I’m currently working as an MIS Assistant while pursuing my MBA in Business Analytics. My journey is a bit unique—after spending 2.5 years as a Liver Transplant ICU Nurse, I made the leap into the world of Data Analytics and Business Intelligence.
-Whether it's monitoring a patient's vitals or auditing enterprise data, my core rule remains the same: never trust data until you've validated it.
-This repository serves as my technical portfolio, project showcase, and continuous learning log as I build real-world solutions across BI, MIS, and Healthcare Analytics.
-🎯 Career Vision
-My goal is to bridge the gap between complex operations and actionable insights. By combining my clinical ICU background with modern data analytics and ERP workflows, I aim to drive data-informed decisions in:
-Management Information Systems (MIS)
-Business Intelligence (BI)
-Healthcare Analytics & Workforce Operations
-🗺️ My Learning & Project Roadmap
-📌 Phase 1 — Building the Foundation
-Focus: Core data mechanics, database querying, and version control.
-Tech Stack: Advanced Excel, MySQL, Power Query, Data Cleaning, Git & GitHub
-Key Deliverables: SQL query practice, cleaned operational spreadsheets, technical notes.
-📌 Phase 2 — Business Intelligence & Dashboards
-Focus: Turning raw business numbers into clean, visual insights.
-Tech Stack: Power BI, Advanced Excel Dashboards, DAX
-Key Deliverables: Dynamic Power BI dashboards, Sales & Inventory performance trackers, KPI reporting models.
-📌 Phase 3 — Python for Data Science & Automation
-Focus: Exploratory Data Analysis (EDA) and workflow scripting.
-Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn
-Key Deliverables: Data wrangling scripts, EDA notebooks, automated visualization pipelines.
-📌 Phase 4 — MIS & Enterprise Systems (ERP)
-Focus: Real-time business reporting, operations, and system sync.
-Systems in Action: Microsoft Dynamics 365 Business Central, Counterpoint ERP, Monday.com, Webtal, ZKTeco, Business Objects (IBO)
-Key Deliverables: End-of-Day (EOD) logs, data reconciliation scripts, ERP workflow documentation.
-📌 Phase 5 — Healthcare Analytics (Domain Expertise)
-Focus: Leveraging my clinical background to solve healthcare operations challenges.
-Planned Projects:
-🏥 Healthcare Workforce & Mental Health Analysis
-🩺 Patient Flow & Sample Clinical Performance Dashboards
-📊 Hospital Operations KPI Tracking
-📌 Phase 6 — Portfolio Showcase
-Focus: Packaging end-to-end projects into clean, production-ready repositories.
-Featured Tracks: SQL Case Studies | Power BI Workbooks | FMCG & Retail Analytics | MIS Reporting Solutions
-📌 Phase 7 — The Continuous Learning Journal
-Focus: Documenting the process, failures, and growth.
-Content: Weekly reflections, code snippets, career milestones, and technical troubleshooting notes.
-🛠️ My Tech Stack & Toolkit
-Domain	Technologies & Tools
-Languages & Analytics	Python (Pandas, NumPy, Matplotlib), SQL (MySQL)
-Business Intelligence	Microsoft Power BI, Power Query, Excel (Advanced)
-Enterprise / ERP	Dynamics 365 Business Central, Counterpoint, Monday.com, Webtal, DinePlan, ZKTeco, IBO
-Version Control	Git, GitHub
-📈 What I’m Focusing on Right Now
-🔍 Refining SQL Queries: Writing optimized joins, subqueries, and CTEs.
-📊 Power BI Mastery: Building intuitive, user-friendly dashboard layouts.
-🐍 Python Analytics: Working on EDA projects for workforce and business data.
-⚙️ ERP Workflows: Deepening hands-on tracking with Business Central and operational software.
-📂 Featured Repositories
-Projects are continuously updated as they reach completion. Check out the project folders above!
-📄 sql-practice-and-queries — Real-world business query problems and solutions.
-📊 PowerBI - dashboards — Interactive reports covering retail and operational KPIs.
-🐍 python-healthcare-analytics — Data cleaning and EDA on workforce trends.
-📝 mis-eod-case-studies — Practical breakdowns of system validation and reporting.
-🤝 Let's Connect!
-I’m always open to discussing Data Analytics, Business Intelligence, Healthcare Tech, or Career Transitions.
-💼 LinkedIn: [https://www.linkedin.com/in/mugamadhamdhan/]
-📧 Email: [Your Professional Email]
-🌐 Portfolio: [Your Portfolio / Linktree URL]
+# 🚀 Welcome to My Tech & Analytics Hub
+
+Hey there! 👋 I'm **Mugamad Hamdhan**.
+
+I'm currently working as an **MIS Assistant** while pursuing my **MBA in Business Analytics**.
+
+My journey is a little different.
+
+After spending **2.5 years as a Liver Transplant ICU Nurse**, I transitioned into the world of **Management Information Systems (MIS), Business Intelligence (BI), and Data Analytics**.
+
+Whether I'm monitoring a patient's vital signs or validating enterprise data, one principle has stayed with me:
+
+> **"Never trust data until you've validated it."**
+
+This GitHub profile serves as my **technical portfolio**, **project showcase**, and **continuous learning journal** as I build practical solutions in MIS, Business Intelligence, and Healthcare Analytics.
+
+---
+
+# 🎯 Career Vision
+
+My goal is to bridge the gap between **business operations** and **data-driven decision-making**.
+
+By combining my clinical background with analytics and enterprise systems, I aspire to create meaningful insights in:
+
+* 📊 Management Information Systems (MIS)
+* 📈 Business Intelligence (BI)
+* 🏥 Healthcare Analytics
+* 📋 Operational & Performance Reporting
+
+---
+
+# 🗺️ Learning & Project Roadmap
+
+## 📌 Phase 1 — Building the Foundation
+
+### Focus
+
+* Advanced Microsoft Excel
+* SQL (MySQL)
+* Power Query
+* Data Cleaning
+* Git & GitHub
+
+### Deliverables
+
+* SQL Practice Repository
+* Excel Practice Files
+* Technical Notes
+* Learning Documentation
+
+---
+
+## 📌 Phase 2 — Business Intelligence & Dashboards
+
+### Focus
+
+* Power BI
+* Dashboard Design
+* KPI Reporting
+* Data Visualization
+* DAX Fundamentals
+
+### Deliverables
+
+* Interactive Power BI Dashboards
+* Excel Dashboards
+* Sales & Inventory Analysis
+* Business KPI Reports
+
+---
+
+## 📌 Phase 3 — Python for Data Analytics
+
+### Focus
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Exploratory Data Analysis (EDA)
+
+### Deliverables
+
+* Data Cleaning Scripts
+* EDA Projects
+* Data Visualization
+* Python Automation
+
+---
+
+## 📌 Phase 4 — MIS & Enterprise Systems
+
+### Focus
+
+* MIS Reporting
+* ERP Workflows
+* Data Validation
+* Business Operations
+* Process Automation
+
+### Enterprise Applications
+
+* Microsoft Dynamics 365 Business Central
+* Counterpoint ERP
+* Monday.com
+* Webtal
+* DinePlan
+* ZKTeco
+* Business Objects (IBO)
+
+### Deliverables
+
+* End-of-Day (EOD) Reports
+* Data Reconciliation
+* ERP Workflow Documentation
+* MIS Reporting Solutions
+
+---
+
+## 📌 Phase 5 — Healthcare Analytics
+
+### Focus
+
+Combining my clinical experience with analytics to solve healthcare operational challenges.
+
+### Planned Projects
+
+* 🏥 Healthcare Workforce Analytics
+* 🧠 Employee Burnout Analysis
+* 📊 Hospital KPI Dashboards
+* 🩺 Clinical Performance Reporting
+* 📈 Healthcare Business Intelligence
+
+---
+
+## 📌 Phase 6 — Portfolio Showcase
+
+### Focus
+
+Building end-to-end analytics projects that demonstrate practical business problem-solving.
+
+### Featured Tracks
+
+* SQL Case Studies
+* Power BI Dashboards
+* Excel Analytics
+* Python Projects
+* Healthcare Analytics
+* FMCG & Retail Analytics
+* MIS Reporting Solutions
+
+---
+
+## 📌 Phase 7 — Continuous Learning Journal
+
+### Focus
+
+Documenting my learning journey through:
+
+* Weekly reflections
+* Technical notes
+* Project updates
+* Lessons learned
+* Career milestones
+* Problem-solving approaches
+
+---
+
+# 🛠️ Tech Stack
+
+| Category                  | Technologies                                                                                                            |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Languages & Analytics** | Python, SQL (MySQL), Pandas, NumPy, Matplotlib                                                                          |
+| **Business Intelligence** | Microsoft Power BI, Power Query, Advanced Excel                                                                         |
+| **Enterprise Systems**    | Microsoft Dynamics 365 Business Central, Counterpoint ERP, Monday.com, Webtal, DinePlan, ZKTeco, Business Objects (IBO) |
+| **Version Control**       | Git, GitHub                                                                                                             |
+
+---
+
+# 📈 Current Focus
+
+Currently I'm working on:
+
+* 🔍 Writing optimized SQL queries
+* 📊 Building interactive Power BI dashboards
+* 📑 Mastering Advanced Excel & Power Query
+* 🐍 Developing Python analytics projects
+* ⚙️ Understanding ERP workflows and business operations
+* 📚 Expanding my portfolio with real-world analytics projects
+
+---
+
+# 📂 Featured Repositories
+
+These repositories will continue to grow as I complete new projects.
+
+* 📄 **SQL Practice & Queries** – Real-world SQL exercises and business query solutions.
+* 📊 **Power BI Dashboards** – Interactive dashboards for retail, operational, and business KPIs.
+* 🐍 **Python Healthcare Analytics** – Data cleaning, EDA, and visualization projects.
+* 📈 **Excel Dashboard Projects** – Reporting dashboards built with Advanced Excel.
+* 📝 **MIS EOD Case Studies** – Practical examples of operational reporting and data validation.
+
+---
+
+# 🎯 Mission
+
+> **Learn continuously. Build meaningful projects. Share knowledge. Create value through data.**
+
+---
+
+# 🤝 Let's Connect
+
+I'm always happy to connect with professionals interested in:
+
+* Data Analytics
+* Business Intelligence
+* MIS
+* Healthcare Analytics
+* Business Operations
+* Career Transitions
+
+💼 **LinkedIn:** https://www.linkedin.com/in/mugamadhamdhan/
+
+📧 **Email:** [hamdhanmabu@gmail.com](mailto:hamdhanmabu@gmail.com)
+
+⭐ If you find my work helpful or interesting, consider starring a repository or connecting with me on LinkedIn!
+ree URL]
 If you find any of my repositories helpful or interesting, feel free to drop a ⭐️!
